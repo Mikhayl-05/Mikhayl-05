@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" align="right" width="150" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZpZnd4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ25hbWUmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" align="right" width="150" />
 
 ### 👨‍💻 High School Student & Tech Enthusiast
 * 🔭 **Projects & Creations:**
