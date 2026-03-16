@@ -1,6 +1,13 @@
 # 💫 About Me:
-🔭 I’m 15 y/o<br>👯 I'm looking for friends who are like me<br>🤝 I’m friendly<br>🌱 I’m currently learning python<br>💬 Ask me about myself<br>⚡ Fun fact I play Genshin Impact 
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZpZnd4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ25hbWUmY3Q9Zw/3og0IPbJ6UrV8sg7O8/giphy.gif" align="right" width="150" />
+
+### 👨‍💻 High School Student & Tech Enthusiast
+* 🔭 **Current Project:** Building **"Gantengs"** (AI-powered Image Upscaler) and developing automation tools.
+* 🌱 **Learning Path:** Deep diving into **Python**, Cybersecurity (Worms & Malware Simulation), and Full-stack Web Development.
+* 🤝 **Collaboration:** I’m looking for fellow developers or friends who share a passion for coding, AI, and ethical hacking.
+* 🎨 **Design:** I enjoy working with **Affinity Designer**, **Figma**, and **Blender** to create clean layouts and 3D assets.
+* ⚡ **Fun Fact:** When I'm not debugging or tweaking my **Kali Linux** setup, you'll probably find me exploring Teyvat in **Genshin Impact** or watching **One Piece**.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mhmyl_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadyusuflauma109@gmail.com) 
