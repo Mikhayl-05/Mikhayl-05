@@ -3,11 +3,17 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZpZnd4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ25hbWUmY3Q9Zw/3og0IPbJ6UrV8sg7O8/giphy.gif" align="right" width="150" />
 
 ### 👨‍💻 High School Student & Tech Enthusiast
-* 🔭 **Current Project:** Building **"Gantengs"** (AI-powered Image Upscaler) and developing automation tools.
-* 🌱 **Learning Path:** Deep diving into **Python**, Cybersecurity (Worms & Malware Simulation), and Full-stack Web Development.
-* 🤝 **Collaboration:** I’m looking for fellow developers or friends who share a passion for coding, AI, and ethical hacking.
-* 🎨 **Design:** I enjoy working with **Affinity Designer**, **Figma**, and **Blender** to create clean layouts and 3D assets.
-* ⚡ **Fun Fact:** When I'm not debugging or tweaking my **Kali Linux** setup, you'll probably find me exploring Teyvat in **Genshin Impact** or watching **One Piece**.
+* 🔭 **Projects & Creations:**
+    * **Gantengs:** An AI-powered Image Upscaler built with Python and Real-ESRGAN to automatically enhance photo quality.
+    * **Telegram Spy Bot:** A remote device monitoring system via Telegram API featuring screenshots, camera capture, and system control.
+    * **FrameFlow:** A visual/video processing project designed for smoother creative workflows.
+    * **Instagram Username Finder:** A multi-threaded script with an auto-IP reset feature via ADB to find unique usernames without hitting rate limits.
+    * **System Monitor & Automation:** Various Python scripts developed for system efficiency and task automation.
+* 🌱 **Learning Path:** Deep diving into **Python**, Cybersecurity, and Web Development.
+* 🤖 **Coding Style:** I love **vibe coding**! Since I'm still learning, I frequently collaborate with AI to help me write, debug, and understand complex scripts.
+* 🤝 **Collaboration:** Looking for friends who can teach me about coding, AI, and ethical hacking.
+* 🎨 **Design:** I enjoy using **Affinity Designer** and **Figma** to create clean layouts and assets.
+* ⚡ **Fun Fact:** When I'm not tweaking my **Kali Linux** setup, you'll find me exploring Teyvat in **Genshin Impact** or watching **Anime**.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mhmyl_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadyusuflauma109@gmail.com) 
