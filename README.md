@@ -39,6 +39,4 @@
 
 ![GitHub Snake](https://raw.githubusercontent.com/Mikhayl-05/Mikhayl-05/output/github-contribution-grid-snake.svg)
 
-
-![Pacman Progress](https://metrics.lecoq.io/Mikhayl-05?template=classic&base=0&plugin_lines=1&plugin_lines_sections=base)
 ---
