@@ -34,3 +34,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mikhayl-05&icon=4&color=0)](https://visitcount.itsvg.in)
+
+## 🐍 My GitHub Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/Mikhayl-05/Mikhayl-05/output/github-contribution-grid-snake.svg)
+
+---
